@@ -1,22 +1,25 @@
 ## 🍽️Zomato Restaurant Data Analysis
 
-# Project Overview
+### 💻 Project Overview
 
 This project analyzes restaurant data from 15 countries using Excel to uncover insights about market competition, pricing, service models (like delivery and booking), and customer preferences.
 
-# Tools Used
+### 📌Tools Used
 -- Microsoft Excel
 -- Data Visualization (Pivort Table, Slicers, Different Charts)
--- Basic Formula & Lookup Functions
+-- Basic Formula,Conditional Formating & Lookup Functions
 -- Interactive Dashboards with Filters
 
-🔍 Key Insights
+### 🔍Key Insights
 
-Steady Growth: A consistent increase in restaurant openings with a sharp spike post-2016, indicating a booming global food market.
+#### Steady Growth: 
+A consistent increase in restaurant openings with a sharp spike post-2016, indicating a booming global food market.
 
-Market Competition: India leads with the highest number of restaurants, signaling a highly saturated market, whereas countries like Canada and Qatar have lower competition.
+#### Market Competition: 
+India leads with the highest number of restaurants, signaling a highly saturated market, whereas countries like Canada and Qatar have lower competition.
 
-Customer Preference: Cuisines like Italian, American, and Pizza dominate votes globally.
+#### Customer Preference:
+Cuisines like Italian, American, and Pizza dominate votes globally.
 
 Service Influence: Restaurants offering delivery and table booking consistently receive higher ratings.
 
